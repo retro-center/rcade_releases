@@ -1,0 +1,6 @@
+# R-Cade Versions (in ascending order)
+# - First is the version number
+# - Second is the upgrade type - 1 = full rootfs
+# - Third controls if there is a single upgrade for all hw models
+
+1.0.1 0 1

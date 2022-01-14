@@ -10,6 +10,8 @@ http://www.retro-center.com
 + Online Streaming
 + All FUN - No Work!
 
+DOWNLOAD THE LATEST R-CADE RELEASES HERE: https://github.com/retro-center/rcade_releases/releases
+
 R-Cade has been developed specifically for optimal compatibility with Rockchip hardware manufactured by our partners, such as Pine64.
 
 In order to make R-Cade legal to distribute, the version of the software that's included on the hardware purchased from retro-center will need a network connection in order to be fully featured. After acknowledging a usage license, R-Cade will download and install an upgrade to it's fully featured version. Until that upgrade is performed, R-Cade is limited to media, music, pictures, KODI, and a lightweight web browser. This is done to avoid any licensing and legal concerns regarding shipping a product with video game emulators.

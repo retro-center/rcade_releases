@@ -1,6 +1,6 @@
 RCADE Software Agreement
 
-Copyright (c) 2021 Retro Center, LLC
+Copyright (c) 2024 Retro Center, LLC
 
 This End User Software License Agreement (the "Agreement") is by and between Retro Center, LLC, a Michigan limited liability company ("Licensor") and any Person that consents to the terms of this Agreement or otherwise uses the Software ("Licensee"). Licensor and Licensee may be referred to herein collectively as the "Parties" or individually as a "Party."
 WHEREAS, Licensor desires to license the Software to Licensee; and

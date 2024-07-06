@@ -1,9 +1,0 @@
-# R-Cade Releases (in ascending order)
-#
-# This file replaces the old "versions" file for newer releases. Upgrade processes and filenames have changed for some board models, so newer releases will utilize this file when checking for available updates.
-# The old file will no longer be updated and will continue to allow older versions to upgrade to the version that switches the check to this file.
-#
-# Line Format:
-# - First is the version number
-# - Second is the upgrade type: 1 = full rootfs; else it's an incremental update
-# - Third is the file naming: 1 = one upgrade file for all boards; 2 = upgrade file for each chipset; else = upgrade file for every board

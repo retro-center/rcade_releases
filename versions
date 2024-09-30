@@ -1,18 +1,3 @@
 # NOTE: this file is no longer in use and is only left online to support upgrades from versions prior to 2.x
-# R-Cade Versions (in ascending order)
-# - First is the version number
-# - Second is the upgrade type - 1 = full rootfs
-# - Third controls if there is a single upgrade for all hw models
-
-1.0.1 0 1
-1.0.2 1 1
-1.0.3 1
-1.0.4 0 1
-1.0.6 1
-1.0.7 0 1
-1.0.8 1
-1.0.9 0 1
-1.1.0 1
-1.1.1 1
 1.9.0 1
 2.0.3
